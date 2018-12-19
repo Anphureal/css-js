@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://giabancanhometrostarquan9.blogspot.com/' target='_blank'><img src='https://4.bp.blogspot.com/-A855f5eWXbU/XBfbOBQ6dxI/AAAAAAAAACc/Pv6rln5ufGUezDejcZsNi1vVSuP2c49egCEwYBhgL/s1600/hotline-cdt-metro-star.gif' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://giabancanhometrostarquan9.blogspot.com/' target='_blank'><img src='https://4.bp.blogspot.com/-A855f5eWXbU/XBfbOBQ6dxI/AAAAAAAAACc/Pv6rln5ufGUezDejcZsNi1vVSuP2c49egCEwYBhgL/s1600/hotline-cdt-metro-star.gif' width='500px'/><br/>Bán căn hộ Metro Star</a>. LH: 0367272733. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
